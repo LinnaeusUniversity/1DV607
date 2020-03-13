@@ -1,0 +1,9 @@
+Re-Submission:
+Domain Model:
+
+
+In the domain model the conceptual classes involved are: Member, Boat, Boat Details, Membership Fee, Berth, Reservation, Calendar, Event.
+The Member pays the “Membership” Fee which enables the Member to own “Boats”. Another important point to note is that, the number of Boats influences the “Member ship Fee”.
+The “Boat” class is associated with the “Berth class” and there exists a “Reservation” class which dependent on the “Boat” and “Berth” class. This class keeps the history of the Berth assigned.
+The Calendar class contains the Event class which list the events. 
+Adam Benn and Rashed Qazizada
