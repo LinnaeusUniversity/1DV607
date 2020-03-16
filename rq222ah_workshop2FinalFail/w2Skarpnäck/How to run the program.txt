@@ -1,0 +1,4 @@
+Run program:
+1- open the Command Prompt 
+2- Navigate to the directory that the program exist in with the command: cd name-of-the-directory.
+3- Run the program with command: java -jar workshop2Final.jar

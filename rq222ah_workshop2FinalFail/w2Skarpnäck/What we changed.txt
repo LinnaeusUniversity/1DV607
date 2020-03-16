@@ -1,0 +1,2 @@
+Regarding to the class and sequence diagrams, We have fixed according to the feedback.
+Also we fixed the dependencies between classes in the View and in the console.
