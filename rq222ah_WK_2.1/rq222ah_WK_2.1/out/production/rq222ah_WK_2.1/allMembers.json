@@ -1,0 +1,29 @@
+{
+  "allMembers" : [ {
+    "id" : 7212,
+    "personalNo" : "198800112233",
+    "name" : "Rashed",
+    "boats" : [ {
+      "boatType" : "MOTORSAILER",
+      "length" : 25.0,
+      "boatId" : "1",
+      "count" : 10
+    }, {
+      "boatType" : "KAJAK",
+      "length" : 12.0,
+      "boatId" : "2",
+      "count" : 6
+    } ],
+    "boatIterator" : [ {
+      "boatType" : "MOTORSAILER",
+      "length" : 25.0,
+      "boatId" : "1",
+      "count" : 10
+    }, {
+      "boatType" : "KAJAK",
+      "length" : 12.0,
+      "boatId" : "2",
+      "count" : 6
+    } ]
+  } ]
+}
